@@ -7,6 +7,8 @@ import tensorflow as tf
 import numpy as np
 import scipy.misc 
 import os
+import os
+import os
 try:
     from StringIO import StringIO  # Python 2.7
 except ImportError:
